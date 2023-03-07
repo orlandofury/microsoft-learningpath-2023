@@ -1,0 +1,15 @@
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\bin\Debug\net7.0\EjercicioFirstCSharpCode.exe
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\bin\Debug\net7.0\EjercicioFirstCSharpCode.deps.json
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\bin\Debug\net7.0\EjercicioFirstCSharpCode.runtimeconfig.json
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\bin\Debug\net7.0\EjercicioFirstCSharpCode.dll
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\bin\Debug\net7.0\EjercicioFirstCSharpCode.pdb
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\EjercicioFirstCSharpCode.csproj.AssemblyReference.cache
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\EjercicioFirstCSharpCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\EjercicioFirstCSharpCode.AssemblyInfoInputs.cache
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\EjercicioFirstCSharpCode.AssemblyInfo.cs
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\EjercicioFirstCSharpCode.csproj.CoreCompileInputs.cache
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\EjercicioFirstCSharpCode.dll
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\refint\EjercicioFirstCSharpCode.dll
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\EjercicioFirstCSharpCode.pdb
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\EjercicioFirstCSharpCode.genruntimeconfig.cache
+C:\Users\orlan\development\teaching\microsoft\EjercicioFirstCSharpCode\obj\Debug\net7.0\ref\EjercicioFirstCSharpCode.dll
