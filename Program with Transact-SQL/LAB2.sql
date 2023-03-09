@@ -5,7 +5,7 @@ SELECT TOP(10) name, listprice
             ORDER BY listprice DESC;
 GO
 EXECUTE SalesLT.TopProducts;
-
+GO
 ALTER PROCEDURE SalesLT.TopProducts @ProductCategoryID int
 AS
 SELECT TOP(10) name, listprice
